@@ -1,0 +1,2 @@
+# Audio-Activation-Module-for-Home-Automation
+The Project is split into 2 parts. Part I aims at developing a stand alone Audio Activation Module that can be used as plug in module in any application that requires audio activation like robots, task automation, toys etc. The Part II of the project focuses specifically on interfacing our module with the existing industry standard home automation hardware and making it work.
