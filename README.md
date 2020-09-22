@@ -1,4 +1,8 @@
 # Audio-Activation-Module-for-Home-Automation
+With rapid growth in IOT, smart homes and home automation solutions have gained substantial traction. Eventhough the extent of automation achievable is impressive but most applications stick to lower levels of automation like remote operation of lighting, airconditioner, heaters or watching live feed from security cameras on mobile phones etc. We intend to add one more layer of automation of comprehending voice commands for these tasks and we try to achieve this within the existing industry standard automation hardware ecosystem by introducing our Audio Activation module just as a plugin device.
+
+We begin by an attempt to comprehend and act on a single voice command.
+
 The Project is split into 2 parts. Part I aims at developing a stand alone Audio Activation Module that can be used as plug in module in any application that requires audio activation like robots, task automation, toys etc. The Part II of the project focuses specifically on interfacing our module with the existing industry standard home automation hardware and making it work.
 
 The inspiration for this project came from the Trigger word detection assignment (last assignment of the Sequence Modelling Module) of the Deep learning specialization on Coursera. The implementation hardware is Raspberry Pi 3 Model B and I make use of platform Deeplearning frame work; Tensorflow lite for our application.
